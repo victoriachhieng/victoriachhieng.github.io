@@ -2,7 +2,6 @@ body {
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 0;
-	text-align: center;
 	width: 100%;
 	background: linear-gradient(to bottom right, red, yellow);
 }
@@ -11,7 +10,7 @@ h1 {
 	font-size: 60px;
 	font-family: Georgia, serif;
 	color: white;
-	text-align: left;
+	text-align: center;
 	border-bottom: 6px solid red;
         background-color: orange;
 }
@@ -21,8 +20,6 @@ h1 {
 	font-family: Georgia, serif;
 	color: white;
 	text-align: left;
-	border-bottom: 6px solid red;
-        background-color: orange;
 }
 
 h3 {
