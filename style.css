@@ -43,12 +43,13 @@ h7 {
 p {
 	font-size: 16px;
 	font-family: Georgia, serif;
-	color: red;
+	color: black;
+	text-align: left;
 }
 
 li {
 	font-size: 16px;
 	text-align: left;
 	font-family: Georgia, serif;
-	color: black
+	color: black;
 }
