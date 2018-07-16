@@ -6,6 +6,12 @@ body {
 	width: 100%;
 }
 
+h1 {
+	font-size: 40px;
+	font-family: Georgia, serif;
+	color: Lightgray;
+	
+
 h2 {
 	font-size: 32px;
 	font-family: Georgia, serif;
