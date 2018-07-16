@@ -15,7 +15,7 @@ h1 {
         background-color: orange;
 }
 	
-	h2 {
+h2 {
 	font-size: 48px;
 	font-family: Georgia, serif;
 	color: white;
@@ -34,8 +34,8 @@ h3 {
 h7 {
 	font-size: 16px;
 	font-family: Georgia, serif;
-	color: white;
 	text-align: center;
+	color: white;
 }
 
 p {
