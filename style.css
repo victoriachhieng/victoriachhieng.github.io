@@ -4,11 +4,14 @@ body {
 	margin: 0;
 	text-align: center;
 	width: 100%;
-	color: black;
 }
 
 h1 {
 	font-size: 32px;
+	font-family: Georgia, seif;
+	color: blue;
+	
+	
 }
 
 h2 {
