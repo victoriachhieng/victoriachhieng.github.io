@@ -2,34 +2,40 @@ body {
 	font-family: Georgia, serif;
 	height: 100%;
 	margin: 0;
-	text-align: left;
+	text-align: center;
 	width: 100%;
 	background: linear-gradient(to bottom right, red, yellow);
 }
 
 h1 {
-	font-size: 40px;
+	font-size: 60px;
 	font-family: Georgia, serif;
 	color: white;
-	text-align: cetner;
+	text-align: center;
 	border-bottom: 6px solid red;
         background-color: orange;
 }
 	
 	h2 {
-	font-size: 40px;
+	font-size: 32px;
 	font-family: Georgia, serif;
 	color: white;
-	text-align: cetner;
+	text-align: center;
 	border-bottom: 6px solid red;
         background-color: orange;
 }
 
 h3 {
-	font-size: 40px;
+	font-size: 32px;
 	font-family: Georgia, serif;
 	color: white;
-	text-align: cetner;
+	text-align: center;
 	border-bottom: 6px solid red;
         background-color: orange;
+}
+
+h7 {
+	font-size: 16px;
+	font-family: Georgia, serif;
+	color: white;
 }
