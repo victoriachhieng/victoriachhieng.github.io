@@ -10,13 +10,13 @@ img {
 	float: right;
 	clear: right;
 	border-bottom: 6px solid red;
-	border-top: 6px solid orange;
+	border-top: 6px solid red;
 	border-right: 6px solid orange;
 	border-left: 6px solid orange;
 	height: auto;
 	width: auto;
-	max-width: 300px;
-	max-height: 300px;
+	max-width: 330px;
+	max-height: 330px;
 	
 }
 
