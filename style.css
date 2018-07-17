@@ -6,10 +6,9 @@ body {
 	background: linear-gradient(to bottom right, red, yellow);
 }
 
-.hero a {
-  image: url("<img src="https://image.ibb.co/cr4E4J/fullsizeoutput_76c.jpg" alt="Victoria Chhieng">");
-  width: 500;
-  height: 500;
+img.resize {
+	width: 200px;
+	height: 40px;
 }
 
 h1 {
