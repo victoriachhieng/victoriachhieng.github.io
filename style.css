@@ -8,6 +8,7 @@ body {
 
 img {
 	float: right;
+	clear: right;
 	height: auto;
 	width: auto;
 	max-width: 350px;
