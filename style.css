@@ -11,7 +11,7 @@ img {
 	width: auto;
 	max-width: 200px;
 	max-height: 200px
-	float: right;
+	vertical-align: right;
 	
 }
 
