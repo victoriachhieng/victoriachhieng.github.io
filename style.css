@@ -9,12 +9,14 @@ body {
 img {
 	float: right;
 	clear: right;
-	border-bottom: 6px solid red;
-	border-top: 6px solid red;
+	border-bottom: 6px solid yellow;
+	border-top: 6px solid yellow;
+	border-right: 6px solid yellow;
+	border-left: 6px solid yellow;
 	height: auto;
 	width: auto;
-	max-width: 270px;
-	max-height: 270px;
+	max-width: 290px;
+	max-height: 290px;
 	
 }
 
