@@ -10,10 +10,11 @@ img {
 	float: right;
 	clear: right;
 	border-bottom: 6px solid red;
+	border-top: 6px solid red;
 	height: auto;
 	width: auto;
-	max-width: 500px;
-	max-height: 500x
+	max-width: 270px;
+	max-height: 270px;
 	
 }
 
