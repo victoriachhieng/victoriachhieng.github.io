@@ -9,6 +9,7 @@ body {
 img {
 	float: right;
 	clear: right;
+	border-bottom: 6px solid red;
 	height: auto;
 	width: auto;
 	max-width: 350px;
