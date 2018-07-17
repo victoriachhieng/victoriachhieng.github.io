@@ -6,11 +6,11 @@ body {
 	background: linear-gradient(to bottom right, red, yellow);
 }
 
-#https://image.ibb.co/cr4E4J/fullsizeoutput_76c.jpg {
+img {
 	height: auto;
 	width: auto;
-	max-width: 300px;
-	max-height: 300px
+	max-width: 150px;
+	max-height: 150px
 }
 
 h1 {
