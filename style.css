@@ -9,10 +9,10 @@ body {
 img {
 	float: right;
 	clear: right;
-	border-bottom: 6px solid red;
-	border-top: 6px solid red;
-	border-right: 6px solid orange;
-	border-left: 6px solid orange;
+	border-bottom: 3px solid white;
+	border-top: 3px solid white;
+	border-right: 3px solid white;
+	border-left: 3px solid white;
 	height: auto;
 	width: auto;
 	max-width: 330px;
