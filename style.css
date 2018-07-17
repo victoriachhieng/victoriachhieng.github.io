@@ -6,14 +6,11 @@ body {
 	background: linear-gradient(to bottom right, red, yellow);
 }
 
-.hero {
+.hero a {
   image: url("<img src="https://image.ibb.co/cr4E4J/fullsizeoutput_76c.jpg" alt="Victoria Chhieng">");
   width: 500;
   height: 500;
 }
-
-.hero a {
-	<img src="https://image.ibb.co/cr4E4J/fullsizeoutput_76c.jpg" alt="fullsizeoutput_76c" border="0">
 
 h1 {
 	font-size: 60px;
